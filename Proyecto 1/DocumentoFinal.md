@@ -63,8 +63,8 @@ La estrategia central de adaptación consistió en reemplazar cada concepto téc
 Se introdujo el concepto de internet utilizando la analogía de los **caminos de un pueblo de juguete** que conecta todas las casitas. Se mostraron imágenes coloridas de una ciudad interconectada y se repitió con los niños el mensaje clave: *"¡Internet conecta a las personas!"* La exposición incluyó preguntas directas al público para activar sus saberes previos sobre el uso cotidiano de internet.
  
 #### Subtema 2 — ¿Con qué nos conectamos? *(Angee Ximena Chojolan)*
- 
-Se presentaron los dispositivos que se conectan a internet (teléfono celular, tableta, televisor, computadora) usando imágenes grandes y reconocibles. Cada dispositivo fue presentado como una **"casita"** conectada al camino de internet. El Wi-Fi fue explicado como el **"aire mágico"** que lleva internet por toda la casa sin cables. Se realizó una actividad rápida de participación: los niños levantaron la mano según el aparato que más usan en casa.
+Se explicó el tema de cómo nos conectamos a Internet utilizando ejemplos sencillos de la vida diaria, comparando al internet saliendo como telarañas invisibles desde la cajita mágica hacia cada uno de los dispositivos. Se mostraron ejemplos como celulares, computadoras y tablets, y se explicaron las formas de conexión como el WiFi, los cables y los datos móviles. También se mencionó el uso del router (cajita mágica) como el aparato que reparte el Internet en casa. Durante la actividad, se hicieron preguntas a los niños para que compartieran sus experiencias, retroalimentando sus conocimientos.
+
  
 #### Subtema 3 — Los "carteros" del internet *(Jose Carlos González)*
  
