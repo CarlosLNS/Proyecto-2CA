@@ -136,6 +136,12 @@ Al finalizar la exposición, se realizó una validación oral y física: la coor
 ---
  
 #### Carlos Alberto Alonso Loarca — Expositor, Subtema 4
+| **Fortalezas** | **Oportunidades** |
+| :--- | :--- |
+| Escucha activa a las dudas de los niños o a sus opiniones | Aprendizaje para mantener la calma en situaciones fuera del circulo de confort |
+| **Debilidades** | **Amenazas** |
+| Nerviosismo por ser la primera vez interactuando con niños | Trafico en carreteras para llegar a la conferencia a tiempo |
+| Olvidarme de lo que debo decir del guión por la presión de terminar lo mas rapido posible | Presión por cumplir con el tiempo establecido para mi presentación |
 
 ---
  
@@ -146,6 +152,16 @@ Al finalizar la exposición, se realizó una validación oral y física: la coor
 ### 4.2 FODA Grupal
 
 El siguiente análisis refleja el desempeño colectivo del Grupo 3, Sección A, durante el diseño, planificación y ejecución del Proyecto No. 1.
+| **Fortalezas** | **Oportunidades** |
+| :--- | :--- |
+| Buena coordinación sobre el reparto del tiempo | Versatibilidad de escenarios a elección para la realización del proyecto |
+| Realización adecuada de actividades para los niños | Uso libre de la creatividad para el desarrollo de la actividad|
+| Uso libre de herramientas digitales y fisicas para el proyecto | Elección de actividades para captar la atención de los niños |
+| Adaptaciones del lenguaje para la edad de los niños | 
+| Manejo de la atención por medio de actividades para captar la atencion de los ninños | 
+| **Debilidades** | **Amenazas** |
+| Nerviosismo por estar en un ambiente distinto | Falta de respuesta de las instituciones |
+| Control del grupo en momentos donde los niños querian hablar al mismo tiempo| Responsabilidad de cumplir exactamente con 1 hora de la conferencia |
 
 
 ---
