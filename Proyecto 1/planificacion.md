@@ -5,7 +5,7 @@
 
 **Universidad:** Universidad de San Carlos de Guatemala  
 **Facultad:** Ingeniería — Escuela de Ciencias y Sistemas  
-**Curso:** Comunicación Asertiva  
+**Curso:** Laboratorio Comunicación Asertiva  
 **Sección:** A | **Grupo:** 3 | 
 **Coordinadora:** Jeimy González  
 **Ciclo:** 2026  
