@@ -275,6 +275,7 @@ El siguiente análisis refleja el desempeño colectivo del Grupo 3, Sección A, 
 
 ### Anexo A — Video de Organización del Equipo (Planificación)
 
+Ver video en YouTube: https://youtu.be/NIaRw77nScg
 
 ---
 
