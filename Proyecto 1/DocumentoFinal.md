@@ -214,6 +214,25 @@ Al finalizar la exposición, se realizó una validación oral y física: la coor
  
 #### Astrid Alejandra Sánchez Pérez — Expositora & Facilitadora, Subtema 5
 
+**Fortalezas**
+
+· Diseñé e implementé un cuento corto con un personaje (Sofía) que facilitó la conexión emocional de los niños con el tema de seguridad digital, logrando captar su atención a través de una narrativa familiar.
+· Estructuré las reglas de seguridad como un "código de superhéroe" con gestos asociados, lo que permitió que los niños repitieran y recordaran la información sin necesidad de leer, adaptándome a su nivel de desarrollo.
+· Utilicé un lenguaje claro, tono de voz alegre y contacto visual constante para mantener el interés del público infantil durante mi intervención.
+
+**Oportunidades**
+
+· Este proyecto me permitió fortalecer mis habilidades para explicar conceptos técnicos (seguridad digital) a una audiencia no especializada y con características muy particulares, como lo es la infantil, lo cual es un desafío valioso para mi formación profesional.
+· La experiencia de facilitar una actividad interactiva con niños me brindó herramientas prácticas para manejar la control de dinámicas grupales en tiempo real, una competencia que puedo aplicar en futuros proyectos.
+
+**Debilidades**
+
+· Aunque el cuento y las reglas estaban bien planificados, en el momento de la ejecución sentí cierta rigidez al seguir el guion, lo que limitó mi capacidad de improvisación cuando algunos niños respondían de forma inesperada o se distraían.
+· Mi experiencia previa trabajando con niños era limitada, por lo que en los primeros momentos de mi intervención me costó encontrar el ritmo adecuado para hacer pausas y esperar las respuestas del público sin apresurarme.
+
+**Amenazas**
+
+· La energía y atención variante de los niños representó una amenaza constante: a pesar de tener gestos y repeticiones planificadas, existía el riesgo de que el grupo perdiera el hilo del cuento o de las reglas si algún niño se dispersaba o interrumpía.
 ---
  
 ### 4.2 FODA Grupal
