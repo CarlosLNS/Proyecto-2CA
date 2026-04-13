@@ -9,7 +9,7 @@
 **Ciclo:** 2026  
 
 - Jeimy Mariana González  lópez | 202504807 | https://youtu.be/iFRYwvE1FAQ
-- 
+- Angee Ximena Chojolán Oliva | 202505018 |
 -
 -
 -
