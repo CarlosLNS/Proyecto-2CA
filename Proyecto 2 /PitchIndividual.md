@@ -8,4 +8,8 @@
 **Coordinadora:** Jeimy González  
 **Ciclo:** 2026  
 
-- Jeimy Mariana González  lópez | 202504807 | 
+- Jeimy Mariana González  lópez | 202504807 | https://youtu.be/iFRYwvE1FAQ
+- 
+-
+-
+-
