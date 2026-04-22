@@ -20,15 +20,15 @@ jobs:
         with:
           node-version: 20
           cache: npm
-          cache-dependency-path: my-website/package-lock.json
+          cache-dependency-path: Proyecto2/my-website/package-lock.json
       - name: Install dependencies
         run: npm install
-        working-directory: my-website
+        working-directory: Proyecto2/my-website
       - name: Build website
         run: npm run build
-        working-directory: my-website
+        working-directory: Proyecto2/my-website
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./my-website/build
+          publish_dir: ./Proyecto2/my-website/build
