@@ -3,14 +3,15 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - principal
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   deploy:
-    name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -26,14 +27,11 @@ jobs:
         working-directory: Proyecto2/my-website
 
       - name: Build website
-        # Aquí le decimos que ignore los warnings del Progress Plugin que vimos antes
-        run: npm run build
+        run: npx cross-env NODE_OPTIONS=--openssl-legacy-provider npm run build
         working-directory: Proyecto2/my-website
-        env:
-          NODE_OPTIONS: "--openssl-legacy-provider"
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./Proyecto2/my-website/build
