@@ -4,6 +4,7 @@
 **Sección:** A | **Grupo:** 3 |  
 **Ciclo:** 2026 
 **Coordinadora:** 202504807 - Jeimy Mariana González López
+
 **Integrantes:**
 - 202505018 - Angee Ximena Chojolán Oliva 
 - 202503945 - Astrid Alejandra Sanchez Pérez
