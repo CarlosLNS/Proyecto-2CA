@@ -26,8 +26,11 @@ jobs:
         working-directory: Proyecto2/my-website
 
       - name: Build website
+        # Aquí le decimos que ignore los warnings del Progress Plugin que vimos antes
         run: npm run build
         working-directory: Proyecto2/my-website
+        env:
+          NODE_OPTIONS: "--openssl-legacy-provider"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
