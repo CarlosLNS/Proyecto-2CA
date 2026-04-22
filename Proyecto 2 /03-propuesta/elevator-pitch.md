@@ -8,6 +8,10 @@
 **Coordinadora:** Jeimy González  
 **Ciclo:** 2026  
 
+**Descripción:**  
+
+Enlaces a los videos de los elevator pitch individuales de cada uno de los integrantes del grupo
+
 - Jeimy Mariana González  lópez | 202504807 | https://youtu.be/iFRYwvE1FAQ
 - Angee Ximena Chojolán Oliva | 202505018 | https://youtu.be/LdlUkxUvAuw?si=2g_Q5_6xnGejRaVp
 - Astrid Alejandra Sanchez Pérez | 202503945 | https://youtube.com/shorts/u99rJiyPGNk?feature=share
