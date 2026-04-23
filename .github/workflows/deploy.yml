@@ -3,40 +3,29 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - principal
+      - principal  # Verifica que este sea el nombre de tu rama
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 jobs:
   deploy:
-    name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 18
           cache: 'npm'
-          cache-dependency-path: Proyecto2/my-website/package-lock.json
 
       - name: Install dependencies
         run: npm install
-        working-directory: Proyecto2/my-website
 
       - name: Build website
-        # Usamos cross-env para evitar errores de compatibilidad de Node
-        run: npx cross-env NODE_OPTIONS=--openssl-legacy-provider npm run build
-        working-directory: Proyecto2/my-website
+        run: npm run build
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          # Asegúrate de que esta ruta sea exacta a donde Docusaurus deja los archivos
-          publish_dir: ./Proyecto2/my-website/build
+          publish_dir: ./build # Ahora apunta directamente a la raíz
